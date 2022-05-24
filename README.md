@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**alexg-lviv/alexg-lviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Oleksiy and I am 2nd year Computer Science student of Ukrainian Catholic University
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexg-lviv&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true">
+</p>
+<!-- <p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexg-lviv&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true">
+</p> -->
+
+
+### 🌱 I’m currently learning 
+- C++
+- Python
+
+### 🔭 I’m interested in
+- Game Development
+- Python/C++ Development
+- ML
