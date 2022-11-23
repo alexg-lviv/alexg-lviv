@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Oleksiy and I am 2nd year Computer Science student of Ukrainian Catholic University
+My name is Oleksiy and I am 3rd year Computer Science student of Ukrainian Catholic University
 
 
 <p>
